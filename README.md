@@ -21,10 +21,10 @@ This dataset was very large, with over 1 million rows of data. For the purposes 
 ## Visualizing the data  
 The questions I wanted to answer with this data are as follows:
 
--Who is cycling?  <br>
--What are the busiest rental hours during summer months (July & August)  <br>
--What are the most popular locations to end cycling trips? <br>
--What bikes are utilized the most? (This could help with maintenance and upkeep)   <br>   
+- Who is cycling?  <br>
+- What are the busiest rental hours during summer months (July & August)  <br>
+- What are the most popular locations to end cycling trips? <br>
+- What bikes are utilized the most? (This could help with maintenance and upkeep)   <br>   
 Additionally I wanted to visualize all of the stations with details, and over a period of time. <br>
 Finally, I created dashboards and a story to summarize my findings. <br>
 
