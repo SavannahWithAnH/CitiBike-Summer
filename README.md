@@ -5,7 +5,18 @@ Please see my completed presentation [here.](https://public.tableau.com/views/Ci
 ## Getting Started  
 This dataset was very large, with over 1 million rows of data. For the purposes of publishing to Github, and calculating speed of Tableau, I used Python (Pandas) to read in the CSV file and take a sample of the data for visualization purposes. After selecting 30% of the data at random, I wrote the smaller dataset to a new CSV titled CitiBikeoutput. See the process below:
 
-IMAGEEEEEEEE
+    import pandas as pd
+    import numpy as np
+
+    #read in csv
+    df = pd.read_csv("./2013-07+08 - Citi Bike trip data.csv")
+
+    #create sample, random 30%
+    df_sample = df.sample(frac=0.30, random_state=42)
+
+    #write to new csv
+    df_sample.to_csv("CitiBikeoutput.csv", index=False)
+
 
 ## Visualizing the data  
 The questions I wanted to answer with this data are as follows:
