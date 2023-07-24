@@ -23,10 +23,24 @@ The questions I wanted to answer with this data are as follows:
 
 -Who is cycling?  <br>
 -What are the busiest rental hours during summer months (July & August)  <br>
+-What are the most popular locations to end cycling trips? <br>
 -What bikes are utilized the most? (This could help with maintenance and upkeep)   <br>   
 Additionally I wanted to visualize all of the stations with details, and over a period of time. <br>
 Finally, I created dashboards and a story to summarize my findings. <br>
 
 
-IMAGESSSSSSSSSSSS
+<img width="955" alt="image" src="https://github.com/SavannahWithAnH/CitiBike-Summer/assets/126124356/0c12e13d-1247-4829-9601-9effd15d9901">
+
+<img width="957" alt="image" src="https://github.com/SavannahWithAnH/CitiBike-Summer/assets/126124356/69edebb3-f361-47b6-9335-2afe3472a104">
+
+<img width="967" alt="image" src="https://github.com/SavannahWithAnH/CitiBike-Summer/assets/126124356/bcbe7163-986a-40fa-aa42-755a564b893e">
+
+<img width="714" alt="image" src="https://github.com/SavannahWithAnH/CitiBike-Summer/assets/126124356/c55b8b45-3cfd-41ea-9cbf-39036c4cecce">
+
+<img width="952" alt="image" src="https://github.com/SavannahWithAnH/CitiBike-Summer/assets/126124356/3453dbf6-6c8a-4efc-8db1-638e8f01b07c">
+
+
+
+
+
 
