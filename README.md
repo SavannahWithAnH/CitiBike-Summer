@@ -39,6 +39,15 @@ Finally, I created dashboards and a story to summarize my findings. <br>
 
 <img width="952" alt="image" src="https://github.com/SavannahWithAnH/CitiBike-Summer/assets/126124356/3453dbf6-6c8a-4efc-8db1-638e8f01b07c">
 
+<br>
+<br>  
+<br>  
+
+### Questions?
+Please refer to the following:  
+[My LinkedIn Page](https://www.linkedin.com/in/savannah-porter-7a2627267/)  
+[My Email Contact](savannahnporter@gmail.com)  
+
 
 
 
