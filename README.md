@@ -10,8 +10,8 @@ IMAGEEEEEEEE
 ## Visualizing the data  
 The questions I wanted to answer with this data are as follows:
 
--Who is cycling?
--What are the busiest rental hours during summer months (July & August)
+-Who is cycling?  
+-What are the busiest rental hours during summer months (July & August)  
 -What bikes are utilized the most? (This could help with maintenance and upkeep)     
 Additionally I wanted to visualize all of the stations with details, and over a period of time.
 
