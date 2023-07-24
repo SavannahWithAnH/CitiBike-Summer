@@ -1,6 +1,6 @@
 # CitiBike-Summer
 
-Please see my completed dashboard [here](https://public.tableau.com/views/CitiBikeSummerEdition/CitiBikeSummerEdition?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Please see my completed presentation [here.](https://public.tableau.com/views/CitiBikeSummerEdition/CitiBikeSummerEdition?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Getting Started  
 This dataset was very large, with over 1 million rows of data. For the purposes of publishing to Github, and calculating speed of Tableau, I used Python (Pandas) to read in the CSV file and take a sample of the data for visualization purposes. After selecting 30% of the data at random, I wrote the smaller dataset to a new CSV titled CitiBikeoutput. See the process below:
